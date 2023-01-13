@@ -13,9 +13,6 @@ The new engine gave the M3 GTR GT a competitive edge over the Porsche 911 GT3-R 
 It has a short gear ratio, giving it good acceleration to reach its top speed with ease, and also has a great handling, making it a great choice for twisty tracks.
 
 |Engines| |Transmission, 6 Speed Manual|
-|--------------| |------------------|
-3.2L inline-six  Straight cut Gears
-|--------------| |------------------|
- DOHC V8 4.0 L   Sequential Gearbox
-|--------------| |------------------|
-  P60B40 V8         H-Shifter
+|3.2L inline-six|  |Straight cut Gears|
+|DOHC V8 4.0 L|   |Sequential Gearbox|
+|P60B40 V8|         |Shifter|
