@@ -11,8 +11,10 @@ A newly developed P60B40 V8 engine was quickly placed into the race car before t
 The new engine gave the M3 GTR GT a competitive edge over the Porsche 911 GT3-R and allowed it to win seven out of the ten events in the GT category for the 2001 season. Porsche claimed during the 2001 ALMS season that BMW had violated the ALMS entry rules and the spirit of Gran Turismo through protesting the V8 engine in the M3 GTR GT was not available in any road legal BMW M3. 
 
 It has a short gear ratio, giving it good acceleration to reach its top speed with ease, and also has a great handling, making it a great choice for twisty tracks.
-
-[Facebook] (https://www.facebook.com/SteelCravenChicken/)
-Engines for M3  
-|--------------|
-3.2L inline-six 
+Engines          Transmission, 6 Speed Manual
+|--------------||------------------|
+3.2L inline-six  Straight cut Gears
+|--------------||------------------|
+ DOHC V8 4.0 L   Sequential Gearbox
+|--------------||------------------|
+  P60B40 V8         H-Shifter
