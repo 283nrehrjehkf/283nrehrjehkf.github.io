@@ -20,5 +20,6 @@ Major internal/vital parts for M3 GTR
 | DOHC V8 4.0 L    |  |Sequential Gearbox            |
 | P60B40 V8        |  |Shifter                       |
 
-Here is a video showing Hans-Joachim Stuck setting a record lap with His M3 at Nurburgring Nordschleife.
+Here is a video showing Hans-Joachim Stuck, a German BMW factory driver, setting a record lap with His M3 at Nurburgring Nordschleife.
 https://youtu.be/jkQmXueWIio
+
