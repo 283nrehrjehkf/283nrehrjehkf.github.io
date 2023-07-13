@@ -18,7 +18,7 @@ Major internal/vital parts for M3 GTR
 | ---|                | ---|                         |--| 
 | 3.2L inline-six 333 hp  |  |Straight cut Gears            | RWD (Rear Wheel Drive)
 | DOHC V8 4.0 L 444 bhp|  |Sequential Gearbox            |
-| P60B40 V8 111 bhp       |  |Shifter                       |
+| P60B40 V8 111 bhp       |  |                            |
 
 Here is a video showing Hans-Joachim Stuck, a German BMW factory driver, setting a record lap with His M3 at Nurburgring Nordschleife. (The German word Nordschleife, stands for Northern loop.)
 
